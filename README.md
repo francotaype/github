@@ -4,6 +4,16 @@ Este archivo contiene una lista de los comandos de GitHub más utilizados junto 
 
 ---
 
+## Índice
+
+1. [Comandos Básicos de Git](#comandos-básicos-de-git)
+2. [Comandos de GitHub](#comandos-de-github)
+3. [Comandos de Colaboración](#comandos-de-colaboración)
+4. [Comandos de Gestión de Branches](#comandos-de-gestión-de-branches)
+5. [Comandos de Fetch, Pull y Push](#comandos-de-fetch-pull-y-push)
+
+---
+
 ## Comandos Básicos de Git
 
 1. **`git init`**  
